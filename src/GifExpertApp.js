@@ -4,7 +4,7 @@ import { GifGrid } from './components/GifGrid';
 
 const GifExpertApp = () => {
 
-    const [categories, setCategories] = useState(['Shigatsu wa kimi no uso']);
+    const [categories, setCategories] = useState(['Love']);
 
     return (
         <>
